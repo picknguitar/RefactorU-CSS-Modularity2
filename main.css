@@ -1,0 +1,199 @@
+.instruction-title {
+	font-family: sans-serif;
+	font-size: 30px;
+}
+
+.instruction-text {
+	font-size: 24px;
+	color: #2980b9;
+	font-family: "Trebuchet MS";
+}
+
+.horz-container {
+	text-align: center;
+	display: block;
+}
+
+.horz-container img {
+	padding: 5px 28px 0;
+}
+
+.list-container {
+	position: relative;
+}
+
+#imgs, .list-container p {
+	display: inline-block;
+	vertical-align: top;
+	padding-left: 50px;
+} 
+
+.vert-container {
+	padding: 100px 0; 
+}
+
+.hor-nav-bar {
+	padding: 0 1px;
+}
+
+.hor-nav-bar li {
+	display: inline;
+}
+
+.l-btn, .m-btn, .s-btn {
+	display: inline-block;
+	background-color: #e74c3c;
+	border-radius: 7px;
+	opacity: 0.7;
+	color: white;
+	text-decoration: none;
+}
+
+.l-btn {					
+	font-size: 28px;
+	padding: 20px 60px; 
+}
+
+.m-btn {
+	font-size: 19px;
+	padding: 7px 30px;
+}
+
+.s-btn {	
+	font-size: 12px;
+	padding: 6px
+}
+
+
+
+.navbar {
+	list-style-type: none;
+	background-color: #e74c3c;
+	opacity: 0.7;
+	padding: 10px;
+	width: 620px;
+	border-radius: 6px;
+	text-align: center;
+}									
+
+.navbar li {
+	display: inline;
+}
+
+.navbar li a {
+	text-decoration: none;
+	padding: 32px;
+	color: white;	
+}
+
+.pag-nav {
+	/*border: 1px solid red;*/
+	list-style-type: none; 
+}
+
+ol li a.first, ol li a.last {
+	text-decoration: none;
+}
+
+.pag-nav li {
+	padding: 0 8px 5px 8px;
+	display: inline;
+	font-size: 1.1em;
+}
+
+.pag-nav a {
+	color: #e74c3c;
+}
+
+.pag-nav span {
+	color: lightgrey; 
+	text-decoration: underline;
+}
+
+.comment-box {
+	/*border: 1px solid red;*/
+	position: relative;
+	height: 80px;
+	margin-bottom: 15px;
+}
+
+.comment-box img {
+	/*border: 1px solid red;*/
+	position: absolute;
+	left: 0px;
+}
+
+#user-info {
+	/*border: 1px solid red;*/
+	position: absolute;
+	margin-left: 95px;
+}
+
+.inside-comment {
+	border: 1px solid red;
+	position: relative;
+}
+
+#time {
+	font-size: 12px;
+	color: darkgrey;
+}
+
+.comment-box2 {
+	border: 1px solid red;
+	position: relative;
+	height: 280px;
+	margin-bottom: 15px;
+	padding-bottom: 20px;
+}
+
+.tab-link li {
+	display: inline;
+}
+
+.tab-link li a {
+	text-decoration: none;
+}
+
+#tab {
+	border: 1px solid blue;
+	border-radius: 8px 8px 0 0;
+	padding: 5px 10px; 
+	display: inline-block;
+	color: blue;
+}
+
+.tab2 {
+	border-bottom: none;
+}
+
+.open-tab {
+	border: 1px solid blue;
+	border-radius: 5px;
+}
+
+
+/*a:link,a:visited
+{
+display:block;
+font-weight:bold;
+color:#FFFFFF;
+background-color:#98bf21;
+width:120px;
+text-align:center;
+padding:4px;
+text-decoration:none;
+}
+a:hover,a:active
+{
+background-color:#7A991A;
+}*/
+
+
+
+
+
+
+
+
+
